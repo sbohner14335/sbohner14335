@@ -1,4 +1,4 @@
-## Hey, I'm Steve 👋
+## 👋 I'm Steve
 
 - 🔭 I work on LLM agentic automation solutions for Internal Audit at IBM
 - 🌱 I’m currently learning about MCP, prompt chaining & developer productivity
