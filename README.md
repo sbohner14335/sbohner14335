@@ -10,21 +10,34 @@
 <a href="https://github.com/sbohner14335" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
 <h3>Technologies</h3>
+
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?logo=python&logoColor=yellow" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=black" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD43B" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+</p>
+
+<p>
+  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" /> 
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?logo=Node.js&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+</p>
+
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express-000000?logo=Express&logoColor=green" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white" />
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img alt="Css3" src="https://img.shields.io/badge/-CSS3-663399?logo=css&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?logo=styled-components&logoColor=white" />  
+</p>
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+</p>
+
+<p>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" />
 </p>
