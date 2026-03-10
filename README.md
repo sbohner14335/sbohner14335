@@ -1,7 +1,7 @@
 ## 👋 I'm Steve
 
 - 🔭 I work on LLM agentic automation solutions at IBM
-- 🌱 I’m currently learning about MCP, prompt chaining & developer productivity
+- 🌱 I’m currently learning about MCP, Agents & developer productivity
 - 🧑‍💻 I’m looking to collaborate on Developer Experience projects
 - 💬 Ask me about anything!
 
